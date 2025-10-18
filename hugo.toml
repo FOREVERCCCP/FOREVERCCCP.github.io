@@ -1,6 +1,5 @@
-baseURL = 'https://follow.tokyo/'
-title = 'Wataruのページ'
+baseURL = "https://follow.tokyo/"
 theme = "PaperMod"
 canonifyURLs = true
-# 日本語サイトなら
 languageCode = "ja"
+title = "Wataru Blog"
