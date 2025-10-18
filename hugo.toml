@@ -2,3 +2,5 @@ baseURL = 'https://follow.tokyo/'
 title = 'Wataruのページ'
 theme = "PaperMod"
 canonifyURLs = true
+# 日本語サイトなら
+languageCode = "ja"
