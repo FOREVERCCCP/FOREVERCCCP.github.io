@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on Wataru Blog</title>
+    <link>http://localhost:1313/categories/life/</link>
+    <description>Recent content in Life on Wataru Blog</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 12 Dec 2025 10:22:39 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Objective in 2026</title>
+      <link>http://localhost:1313/posts/my-objective/</link>
+      <pubDate>Fri, 12 Dec 2025 10:22:39 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-objective/</guid>
+      <description>&lt;h3 id=&#34;im-trying-to-improve-my-english&#34;&gt;I&amp;rsquo;m trying to improve my English.&lt;/h3&gt;
+&lt;p&gt;It is my objective in 2026 to talk with anyone by English.
+That&amp;rsquo;s reason why I write this blog post. I&amp;rsquo;ll keep it everyday.
+As far as I&amp;rsquo;m concerned, My traits might be fitted on oversea cultures rather than other.
+So I need improve my English, especially speaking skill.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve got the impression that the market should be placed more priority than politics.&lt;/p&gt;
+&lt;p&gt;Dec 12, 2025&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
