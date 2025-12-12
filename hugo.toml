@@ -1,4 +1,4 @@
-baseURL = "https://follow.tokyo/"
+baseURL = "https://marketjpn.com/"
 theme = "PaperMod"
 canonifyURLs = true
 languageCode = "ja"
