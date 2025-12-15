@@ -4,7 +4,7 @@ draft = false
 title = 'I watched the movie "The Penguin Lessons" today'
 tags = ["Life", "Movie"]
 categories = ["Life", "Movie"]
-description = "I watched "The Penguin Lessons" in a movie theater."
+description = "I watched The Penguin Lessons in a movie theater."
 ShowToc = true
 +++
 
