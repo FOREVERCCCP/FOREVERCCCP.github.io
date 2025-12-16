@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Movie on Wataru Blog</title>
+    <link>http://localhost:1313/tags/movie/</link>
+    <description>Recent content in Movie on Wataru Blog</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Dec 2025 22:01:01 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/movie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I watched the movie &#34;The Penguin Lessons&#34; today</title>
+      <link>http://localhost:1313/posts/the-penguin-lesson/</link>
+      <pubDate>Mon, 15 Dec 2025 22:01:01 +0900</pubDate>
+      <guid>http://localhost:1313/posts/the-penguin-lesson/</guid>
+      <description>I watched The Penguin Lessons in a movie theater.</description>
+    </item>
+  </channel>
+</rss>
