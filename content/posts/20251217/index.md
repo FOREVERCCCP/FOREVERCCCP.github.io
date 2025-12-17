@@ -12,3 +12,5 @@ ShowToc = true
 I applied for the admission ticket lottery for the Arima Kinen, which is a Grade I flat horse race in Japan.
 It is the world's largest betting horse race and is held on the fourth Sunday of December each year.
 I have a feeling that it might symbolically reflect my fortunes for the coming year, but I'll keep my betting within reasonable limits.
+
+Dec 17, 2025
