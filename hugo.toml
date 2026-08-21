@@ -2,4 +2,62 @@ baseURL = "https://marketjpn.com/"
 theme = "PaperMod"
 canonifyURLs = true
 languageCode = "ja"
-title = "marketjpn"
+defaultContentLanguage = "ja"
+title = "ねとえん"
+
+enableRobotsTXT = true
+
+[params]
+  env = "production"
+  title = "ねとえん"
+  description = "ねとえんは、Androidアプリ・ゲームの企画・開発・運営を行う個人事業です。"
+  author = "ねとえん"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  disableSpecial1stPost = true
+
+[params.profileMode]
+  enabled = true
+  title = "ねとえん"
+  subtitle = "Independent App & Game Development"
+
+  [[params.profileMode.buttons]]
+    name = "Apps"
+    url = "/apps/"
+
+  [[params.profileMode.buttons]]
+    name = "About"
+    url = "/about/"
+
+  [[params.profileMode.buttons]]
+    name = "Contact"
+    url = "/contact/"
+
+[[menu.main]]
+  identifier = "apps"
+  name = "Apps"
+  url = "/apps/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 40
