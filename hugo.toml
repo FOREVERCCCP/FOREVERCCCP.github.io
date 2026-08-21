@@ -2,4 +2,4 @@ baseURL = "https://marketjpn.com/"
 theme = "PaperMod"
 canonifyURLs = true
 languageCode = "ja"
-title = "Wataru Blog"
+title = "marketjpn"
