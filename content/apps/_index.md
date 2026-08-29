@@ -1,34 +1,28 @@
 ---
 
-title: "ポーランドボールのスイカ大合戦"
+title: "Apps"
 
-description: "ポーランドボールのスイカ大合戦 公式サポートページ"
+description: "ねとえんが開発・運営するアプリ・ゲーム"
 
 ---
 
 
 
-\## ポーランドボールのスイカ大合戦
+## ポーランドボールのスイカ大合戦
+
+ポーランドボールを題材にしたAndroid向けパズルゲームです。
+
+[アプリ情報・サポートを見る](/apps/polandball-suika/)
+
+### ポーランドボールクリッカー
+
+ポーランドボールを題材にしたAndroid向けクリッカーゲームです。
+
+[アプリ情報・サポートを見る](/apps/polandball-clicker/)
 
 
 
-「ポーランドボールのスイカ大合戦」は、ねとえんが開発・運営するAndroid向けゲームアプリです。
+### お問い合わせ
 
-
-
-\### サポート情報
-
-
-
-\- \[プライバシーポリシー](./privacy/)
-
-\- \[第三者ソフトウェア・ライセンス](./licenses/)
-
-
-
-\### お問い合わせ
-
-
-
-\[support@marketjpn.com](mailto:support@marketjpn.com)
+[support@marketjpn.com](mailto:support@marketjpn.com)
 
