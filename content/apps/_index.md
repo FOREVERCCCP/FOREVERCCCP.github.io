@@ -14,15 +14,21 @@ description: "ねとえんが開発・運営するアプリ・ゲーム"
 
 [アプリ情報・サポートを見る](/apps/polandball-suika/)
 
-### ポーランドボールクリッカー
+## ポーランドボールクリッカー
 
 ポーランドボールを題材にしたAndroid向けクリッカーゲームです。
 
 [アプリ情報・サポートを見る](/apps/polandball-clicker/)
 
+## ポーランドボールToss！
+
+ポーランドボールを題材にしたAndroid向けTossゲームです。
+
+[アプリ情報・サポートを見る](/apps/polandball-toss/)
 
 
-### お問い合わせ
+
+## お問い合わせ
 
 [support@marketjpn.com](mailto:support@marketjpn.com)
 
